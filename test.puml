@@ -1,17 +1,20 @@
 @startmindmap
-+ OS
-++ Ubuntu
-+++ Linux Mint
-+++ Kubuntu
-+++ Lubuntu
-+++ KDE Neon
-++ LMDE
-++ SolydXK
-++ SteamOS
-++ Raspbian
--- Windows 95
--- Windows 98
--- Windows NT
---- Windows 8
---- Windows 10
+* 目標
+**[#lightgreen] Chrome 拡張
+***_ cookie を使わずに text の保持するよう修正
+**[#FFBBCC] GitHub
+***_ todo を GitHubProjects で管理
+***_ README 整備
+**[#lightblue] emacs
+***_ Org-mode 整備
+***_ PlantUML でマインドマップ管理 (Org-mode と互換性あり)
+***_ highlight-indentation-mode / indent-guide
+***_ whitespace-mod
+**[#plum] RasPi
+***_ 人感センサー&自動撮影
+**[#gold] hugo
+***_ スクリーンショットファイルを自動で SS-2020-07-11 19.52.47.png などになるよう設定
+***_ ロゴ描いて可愛い感じにする
+**[#silver] アドベントカレンダー
+***_ WordPress → 静的サイトへ移行ネタで書く
 @endmindmap
