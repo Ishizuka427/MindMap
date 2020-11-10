@@ -1,14 +1,21 @@
 @startmindmap
-* Debian
-** Ubuntu
-*** Linux Mint
-*** Kubuntu
-*** Lubuntu
-*** KDE Neon
-** LMDE
-** SolydXK
-** SteamOS
-** Raspbian with a very long name
-*** <s>Raspmbc</s> => OSMC
-*** <s>Raspyfi</s> => Volumio
+* 目標
+** Chrome 拡張
+*** cookie を使わずに text の保持するよう修正
+** GitHub
+*** todo を GitHubProjects で管理
+*** README 整備
+** emacs
+*** Org-mode 整備
+*** PlantUML でマインドマップ管理 (Org-mode と互換性あり)
+*** highlight-indentation-mode / indent-guide
+*** whitespace-mod
+** RasPi
+*** 人感センサー&自動撮影
+** hugo
+*** スクリーンショットファイルを自動で SS-2020-07-11 19.52.47.png などになるよう設定
+*** 可愛い感じにする
+**** ロゴ描く
+** アドベントカレンダー
+*** WordPress → 静的サイトへ移行ネタで書く
 @endmindmap
