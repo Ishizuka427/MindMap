@@ -1,6 +1,6 @@
 @startmindmap
 * 目標
-**[#lightgreen] Chrome 拡張
+**[#lightblue] Chrome 拡張
 ***_ cookie を使わずに text の保持するよう修正
 **[#silver] GitHub
 ***_ todo を GitHubProjects で管理 => PlantUML でマインドマップ管理するので不要かも
@@ -15,6 +15,6 @@
 **[#FFBBCC] hugo
 ***_ スクリーンショットファイルを自動で SS-2020-07-11 19.52.47.png などになるよう設定
 ***_ ロゴ描いて可愛い感じにする
-**[#lightblue] アドベントカレンダー
+**[#lightgreen] アドベントカレンダー
 ***_ WordPress → 静的サイトへ移行ネタで書く
 @endmindmap
