@@ -7,7 +7,7 @@
 - Org-mode と互換性あり
 - 画像生成して image を表示できる
 
-http://alphadoc.plantuml.com/edit/dokuwiki/ja/mindmap-diagram
+https://plantuml.com/ja/mindmap-diagram
 
 ## PlantUML Viewer
 - [x] 検証
