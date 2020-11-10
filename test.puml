@@ -1,12 +1,9 @@
 @startmindmap
 * 目標
-
-left side
-
 **[#lightgreen] Chrome 拡張
 ***_ cookie を使わずに text の保持するよう修正
 **[#FFBBCC] GitHub
-***_ todo を GitHubProjects で管理
+***_ <s>todo を GitHubProjects で管理</s> => PlantUML でマインドマップ管理するので不要かも
 ***_ README 整備
 **[#lightblue] emacs
 ***_ Org-mode 整備
