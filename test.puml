@@ -1,21 +1,20 @@
 @startmindmap
-* 目標
-** Chrome 拡張
-*** cookie を使わずに text の保持するよう修正
-** GitHub
-*** todo を GitHubProjects で管理
-*** README 整備
-** emacs
-*** Org-mode 整備
-*** PlantUML でマインドマップ管理 (Org-mode と互換性あり)
-*** highlight-indentation-mode / indent-guide
-*** whitespace-mod
-** RasPi
-*** 人感センサー&自動撮影
-** hugo
-*** スクリーンショットファイルを自動で SS-2020-07-11 19.52.47.png などになるよう設定
-*** 可愛い感じにする
-**** ロゴ描く
-** アドベントカレンダー
-*** WordPress → 静的サイトへ移行ネタで書く
++[#Orange] 目標
+--[#lightgreen] Chrome 拡張
+--- _cookie を使わずに text の保持するよう修正
+--[#FFBBCC] GitHub
+--- _todo を GitHubProjects で管理
+--- _README 整備
+--[#lightblue] emacs
+--- _Org-mode 整備
+--- _PlantUML でマインドマップ管理 (Org-mode と互換性あり)
+--- _highlight-indentation-mode / indent-guide
+--- _whitespace-mod
+--[#plum] RasPi
+--- _人感センサー&自動撮影
+--[#gold] hugo
+--- _スクリーンショットファイルを自動で SS-2020-07-11 19.52.47.png などになるよう設定
+--- _ロゴ描いて可愛い感じにする
+--[#silver] アドベントカレンダー
+--- _WordPress → 静的サイトへ移行ネタで書く
 @endmindmap
