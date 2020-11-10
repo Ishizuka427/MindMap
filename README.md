@@ -5,10 +5,9 @@
 ## PlantUML
 - [x] 検証
 - Org-mode と互換性あり
+- 画像生成して image を表示できる
 
 http://alphadoc.plantuml.com/edit/dokuwiki/ja/mindmap-diagram
-
-- 画像生成して image を表示できる
 
 ## PlantUML Viewer
 - [x] 検証
@@ -19,7 +18,6 @@ http://alphadoc.plantuml.com/edit/dokuwiki/ja/mindmap-diagram
 
 ## Org-mode (未検証) → 週末に確認する
 - plantuml-mode
+- org-babel
 
 https://joppot.info/2017/10/30/4091
-
-- org-babel
