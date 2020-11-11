@@ -1,6 +1,6 @@
 @startmindmap
-* 目標
-**[#white] <&flag>Elasticsearch
+*[#white] 目標
+** <&flag> Elasticsearch
 ***_ <&people>一人ハッカソン 実装フェーズまでやる
 **[#royalblue] GKE 試す
 ***_ アプリケーションを乗せる
@@ -8,18 +8,16 @@
 ***_ Deploy 自動化 
 **[#lightblue] Chrome 拡張
 ***_ cookie を使わずに text の保持するよう修正
-**[#silver] <&flag>GitHub
-***_ todo を GitHubProjects で管理 => PlantUML でマインドマップ管理するので不要かも
-***_ README 整備 => README 書くリポジトリの選定, 日英翻訳する
+**[#silver] <&flag> GitHub
+***_ README 書くリポジトリの選定, 日英翻訳する
 ***_ ハッカソンのコードをリファクタ
-**[#plum] <&flag>emacs
+**[#plum] <&flag> emacs
 ***_ Org-mode 整備
 ***_ PlantUML でマインドマップ管理 (Org-mode と互換性あり)
-***_ highlight-indentation-mode / indent-guide
-***_ whitespace-mod
+***_ ・highlight-indentation-mode \n・indent-guide \n・whitespace-mod
 **[#red] RasPi
 ***_ 人感センサー&自動撮影
-**[#FFBBCC] <&flag>hugo
+**[#FFBBCC] <&flag> hugo
 ***_ スクリーンショットファイルを自動で SS-2020-07-11 19.52.47.png などになるよう設定 https://dyny001.net/mac-screenshot/
 ***_ ロゴ描いて可愛い感じにする
 **[#lightgreen] アドベントカレンダー
