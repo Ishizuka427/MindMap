@@ -1,7 +1,7 @@
 @startmindmap
 * 目標
-**[#white] Elasticsearch
-***_ ★一人ハッカソン 実装フェーズまでやる
+**[#white] <&flag>Elasticsearch
+***_ <&people>一人ハッカソン 実装フェーズまでやる
 **[#royalblue] GKE 試す
 ***_ アプリケーションを乗せる
 ***_ 監視 Prometheus
