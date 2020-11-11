@@ -1,8 +1,8 @@
 @startmindmap
 * 目標
-** Elasticsearch
+**[#white] Elasticsearch
 ***_ #一人ハッカソン 実装フェーズまでやる
-** GKE 試す
+**[#royalblue] GKE 試す
 ***_ アプリケーションを乗せる
 ***_ 監視 Prometheus
 ***_ Deploy 自動化 
