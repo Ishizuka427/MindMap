@@ -6,6 +6,10 @@
 **[#silver] GitHub
 ***_ <&flag> README 書くリポジトリの選定, 日英翻訳する
 ***_ ハッカソンのコードをリファクタ
+**[#plum] emacs
+***_ Org-mode 整備
+***_ <&flag> PlantUML でマインドマップ管理 (Org-mode と互換性あり)
+***_ ・highlight-indentation-mode \n・indent-guide \n・whitespace-mod
 **[#lightgreen] アドベントカレンダー
 ***_ <&flag> WordPress → 静的サイトへ移行ネタで書く
 **[#gold] Elasticsearch
@@ -14,15 +18,11 @@
 ***_ アプリケーションを乗せる
 ***_ 監視 Prometheus
 ***_ Deploy 自動化 
-**[#lightblue] Chrome 拡張
-***_ cookie を使わずに text の保持するよう修正
-**[#plum] emacs
-***_ Org-mode 整備
-***_ <&flag> PlantUML でマインドマップ管理 (Org-mode と互換性あり)
-***_ ・highlight-indentation-mode \n・indent-guide \n・whitespace-mod
-**[#red] RasPi
-***_ 人感センサー&自動撮影
 **[#FFBBCC] hugo
 ***_ <&flag> スクリーンショットファイルを自動で \nSS-2020-07-11 19.52.47.png などになるよう設定 \nhttps://dyny001.net/mac-screenshot/
 ***_ ロゴ描いて可愛い感じにする
+**[#lightblue] Chrome 拡張
+***_ cookie を使わずに text の保持するよう修正
+**[#red] RasPi
+***_ 人感センサー&自動撮影
 @endmindmap
