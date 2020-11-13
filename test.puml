@@ -1,28 +1,28 @@
 @startmindmap
 *[#white] 目標
-** 資格取得
-***_ TOEIC
+**[#tomato] 資格
+***_ <&flag> TOEIC
 ***_ 応用情報
-** <&flag> Elasticsearch
-***_ <&people>一人ハッカソン 実装フェーズまでやる
-**[#royalblue] GKE 試す
+**[#silver] GitHub
+***_ <&flag> README 書くリポジトリの選定, 日英翻訳する
+***_ ハッカソンのコードをリファクタ
+**[#lightgreen] アドベントカレンダー
+***_ <&flag> WordPress → 静的サイトへ移行ネタで書く
+**[#gold] Elasticsearch
+***_ 実装フェーズまでやる
+**[#royalblue] GKE
 ***_ アプリケーションを乗せる
 ***_ 監視 Prometheus
 ***_ Deploy 自動化 
 **[#lightblue] Chrome 拡張
 ***_ cookie を使わずに text の保持するよう修正
-**[#silver] <&flag> GitHub
-***_ README 書くリポジトリの選定, 日英翻訳する
-***_ ハッカソンのコードをリファクタ
-**[#plum] <&flag> emacs
+**[#plum] emacs
 ***_ Org-mode 整備
-***_ PlantUML でマインドマップ管理 (Org-mode と互換性あり)
+***_ <&flag> PlantUML でマインドマップ管理 (Org-mode と互換性あり)
 ***_ ・highlight-indentation-mode \n・indent-guide \n・whitespace-mod
 **[#red] RasPi
 ***_ 人感センサー&自動撮影
-**[#FFBBCC] <&flag> hugo
-***_ スクリーンショットファイルを自動で SS-2020-07-11 19.52.47.png などになるよう設定 https://dyny001.net/mac-screenshot/
+**[#FFBBCC] hugo
+***_ <&flag> スクリーンショットファイルを自動で \nSS-2020-07-11 19.52.47.png などになるよう設定 \nhttps://dyny001.net/mac-screenshot/
 ***_ ロゴ描いて可愛い感じにする
-**[#lightgreen] アドベントカレンダー
-***_ WordPress → 静的サイトへ移行ネタで書く
 @endmindmap
