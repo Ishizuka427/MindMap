@@ -18,9 +18,6 @@
 ***_ アプリケーションを乗せる
 ***_ 監視 Prometheus
 ***_ Deploy 自動化 
-**[#FFBBCC] hugo
-***_ <&flag> スクリーンショットファイルを自動で \nSS-2020-07-11 19.52.47.png などになるよう設定 \nhttps://dyny001.net/mac-screenshot/
-***_ ロゴ描いて可愛い感じにする
 **[#lightblue] Chrome 拡張
 ***_ cookie を使わずに text の保持するよう修正
 **[#red] RasPi
