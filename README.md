@@ -28,3 +28,5 @@ https://plantuml.com/ja/mindmap-diagram
 - org-babel
 
 https://joppot.info/2017/10/30/4091
+
+https://symdon.ga/posts/1605346632/
