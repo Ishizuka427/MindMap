@@ -9,7 +9,6 @@
 **[#plum] emacs
 ***_ Org-mode 整備
 ***_ <&flag> PlantUML でマインドマップ管理 (Org-mode と互換性あり)
-***_ ・highlight-indentation-mode \n・indent-guide \n・whitespace-mod \nインデントは各言語modeのフォーマッターを信じる
 **[#lightgreen] アドベントカレンダー
 ***_ <&flag> WordPress → 静的サイトへ移行ネタで書く
 **[#gold] Elasticsearch
