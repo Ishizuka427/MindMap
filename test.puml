@@ -4,19 +4,21 @@
 ***_ <&flag> TOEIC Listening & Reading Test
 ***_ 応用情報
 **[#silver] GitHub
-***_ <&flag> README 書くリポジトリの選定, 日英翻訳する
+***_ README 書くリポジトリの選定, 日英翻訳する
 ***_ ハッカソンのコードをリファクタ
 **[#plum] emacs
 ***_ Org-mode 整備
 ***_ <&flag> PlantUML でマインドマップ管理 (Org-mode と互換性あり)
 **[#lightgreen] アドベントカレンダー
 ***_ <&flag> WordPress → 静的サイトへ移行ネタで書く
+**[#mistyrose] Ansible
+***_ <&flag> Deploy 自動化
+***_ Playbook 書く
 **[#gold] Elasticsearch
 ***_ 実装フェーズまでやる
 **[#royalblue] GKE
 ***_ アプリケーションを乗せる
 ***_ 監視 Prometheus
-***_ Deploy 自動化 
 **[#lightblue] Chrome 拡張
 ***_ cookie を使わずに text の保持するよう修正
 **[#red] RasPi
