@@ -21,7 +21,7 @@ https://plantuml.com/ja/mindmap-diagram
 - Chrome の拡張機能
 - PlantUML で作成したものを GitHub の Raw ボタンから画像で表示してくれる
 
-↑Chrome拡張機能を入れていないと見られないので、あくまで便利ツール
+↑ Chrome 拡張機能を入れていないと見られないので、あくまで便利ツール
 
 ## Org-mode (未検証) → 週末に確認する
 - plantuml-mode
