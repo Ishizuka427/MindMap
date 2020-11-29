@@ -12,14 +12,12 @@
 ※ 重要度が低くても、緊急性が高いものは上位にくる場合もある
 
 ## PlantUML
-- [x] 検証
 - Org-mode と互換性あり
 - 画像生成して image を表示できる
 
 https://plantuml.com/ja/mindmap-diagram
 
 ## PlantUML Viewer
-- [x] 検証
 - Chrome の拡張機能
 - PlantUML で作成したものを GitHub の Raw ボタンから画像で表示してくれる
 
