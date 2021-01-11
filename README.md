@@ -17,11 +17,21 @@
 
 https://plantuml.com/ja/mindmap-diagram
 
+## 更新方法
+```sh
+MindMap % git pull
+MindMap % plantuml test.puml
+MindMap % git status
+MindMap % git add test.png
+MindMap % git commit -m 'update test.png'
+MindMap % git push
+```
+
 ## PlantUML Viewer
 - Chrome の拡張機能
 - PlantUML で作成したものを GitHub の Raw ボタンから画像で表示してくれる
 
-↑ Chrome 拡張機能を入れていないと見られないので、あくまで便利ツール
+※ Chrome 拡張機能を入れていないと見られない
 
 ## Org-mode (未検証) → 週末に確認する
 - plantuml-mode
