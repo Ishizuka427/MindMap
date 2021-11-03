@@ -1,29 +1,17 @@
 @startmindmap
 *[#white] 目標
-**[#tomato] <&flag> TOEIC Listening & Reading Test
-***_ TED シャドーイング
-***_ Linux Today 翻訳
-***_ DjangoGirls 翻訳
-***_ オンライン英会話
-**[#silver] 応用情報
+**[#tomato] <&flag> 英会話
+***_ Daily英会話(Online)
+***_ mikan
 **[#plum] emacs
-**[#lightgreen] <&flag> 図書館
-***_ テーマ: 自動化
+***_ 一括変換
 **[#mistyrose] <&flag> トレーニング
-***_ 朝ラン
-***_ トランポリン
-***_ ストレッチ
-***_ 筋トレ
+***_ Gym
 **[#gold] <&flag> Blog
-***_ TED の内容要約
-***_ 読書感想文
-***_ 翻訳
-***_ 技術についてテーマを絞って書く
+***_ エモいの書く
+***_ Tech
 **[#deepskyblue] <&flag> 創作
 ***_ ステンドグラス
-**[#lightblue] Chrome 拡張
-***_ cookie を使わずに text の保持するよう修正
-***_ Why did I open this page?
-**[#red] RasPi
-***_ 人感センサー&自動撮影
+**[#lightblue] Mastodon
+***_ 構築
 @endmindmap
