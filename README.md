@@ -17,6 +17,14 @@
 
 https://plantuml.com/ja/mindmap-diagram
 
+## 初期設定
+```sh
+Workspace % git clone git@github.com:Ishizuka427/MindMap.git
+Workspace % cd MindMap
+MindMap % brew install plantuml
+MindMap % plantuml test.puml
+```
+
 ## 更新方法
 ```sh
 MindMap % git pull
