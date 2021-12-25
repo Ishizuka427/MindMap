@@ -1,17 +1,14 @@
 @startmindmap
 *[#white] 目標
 **[#tomato] <&flag> 英会話
-***_ Daily英会話 (Online)
 ***_ mikan
-**[#plum] emacs
-***_ 一括変換
-**[#mistyrose] トレーニング
-***_ Gym
-**[#gold] Blog
-***_ エモいの書く
-***_ Tech
+***_ Daily英会話 (Online)
+***_ Sapiens
+**[#plum] Tech
+***_ Emacs (Lisp 入門)
+***_ Blog (週イチ)
+**[#mistyrose] 軽運動
+***_ ストレッチ
 **[#deepskyblue] 創作
 ***_ ステンドグラス
-**[#lightblue] <&flag> Mastodon
-***_ 構築
 @endmindmap
