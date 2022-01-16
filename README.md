@@ -38,6 +38,8 @@ Chrome Extensions
 It will display your PlantUML creations as raw GitHub data in images.  
 ※ You need to have the chrome feature installed to see it.
 
+https://chrome.google.com/webstore/detail/plantuml-viewer/legbfeljfbjgfifnkmpoajgpgejojooj?hl=en
+
 ## Org-mode
 ※ Unverified
 - plantuml-mode
