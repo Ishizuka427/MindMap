@@ -6,7 +6,7 @@
 ![](test.png)
 
 ## Rules
-Principle: Arrange in order of importance
+Principle: Arrange in order of importance.  
 Tasks with high urgency are marked with a 🏁 (flag).
 
 ## PlantUML
