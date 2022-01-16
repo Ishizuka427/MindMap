@@ -28,7 +28,7 @@ MindMap % plantuml test.puml
 MindMap % git pull
 MindMap % plantuml test.puml
 MindMap % git status
-MindMap % git add test.png
+MindMap % git add test.png test.puml
 MindMap % git commit -m 'update test.png'
 MindMap % git push
 ```
