@@ -1,5 +1,5 @@
 # MindMap
-1. Manage goals in the form of a MindMap
+1. Manage my goals in the form of a MindMap
 2. Managing the MindMap in git
 3. Anyone can view the latest MindMap from a browser
 
