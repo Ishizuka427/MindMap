@@ -1,23 +1,36 @@
+MindMap
+Manage goals in the form of a MindMap
+Managing the MindMap in git
+Anyone can view the latest MindMap from a browser
+
+
+Rules
+Principle: Arrange in order of importance
+Tasks with high urgency are marked with a 🏁 (flag).
+
+
+PlantUML
+- Compatible with Org-mode
+- Generates images from text data and displays the images, making it suitable for git management
+
 # MindMap
-1. MindMap を git 管理したい
-2. 誰でもブラウザから最新の MindMap を見られるようにしたい
+1. Manage goals in the form of a MindMap
+2. Managing the MindMap in git
+3. Anyone can view the latest MindMap from a browser
 
 ![](test.png)
 
-## ルール
-重要度が高いものが原則上位
-
-緊急度が高いもの・素早く片付けたほうが良いタスクには🏁(flag)がつく
-
-※ 重要度が低くても、緊急性が高いものは上位にくる場合もある
+## Rules
+Principle: Arrange in order of importance
+Tasks with high urgency are marked with a 🏁 (flag).
 
 ## PlantUML
-- Org-mode と互換性あり
-- 画像生成して image を表示できる
+- Compatible with Org-mode
+- Generates images from text data and displays the images, making it suitable for git management
 
 https://plantuml.com/ja/mindmap-diagram
 
-## 初期設定
+## Initial settings
 ```sh
 Workspace % git clone git@github.com:Ishizuka427/MindMap.git
 Workspace % cd MindMap
@@ -25,7 +38,7 @@ MindMap % brew install plantuml
 MindMap % plantuml test.puml
 ```
 
-## 更新方法
+## How to update
 ```sh
 MindMap % git pull
 MindMap % plantuml test.puml
@@ -41,7 +54,8 @@ MindMap % git push
 
 ※ Chrome 拡張機能を入れていないと見られない
 
-## Org-mode (未検証) → 週末に確認する
+## Org-mode
+※ Unverified
 - plantuml-mode
 - org-babel
 
