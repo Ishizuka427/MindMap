@@ -6,12 +6,13 @@
 ![](test.png)
 
 ## Rules
-Principle: Arrange in order of importance.  
-Tasks with high urgency are marked with a 🏁 (flag).
+Principle:  
+- Arrange in order of importance
+- Tasks with high urgency are marked with a 🏁 (flag)
 
 ## PlantUML
-- Compatible with Org-mode
 - Generates images from text data and displays the images, making it suitable for git management
+- Compatible with Org-mode
 
 https://plantuml.com/ja/mindmap-diagram
 
