@@ -1,18 +1,3 @@
-MindMap
-Manage goals in the form of a MindMap
-Managing the MindMap in git
-Anyone can view the latest MindMap from a browser
-
-
-Rules
-Principle: Arrange in order of importance
-Tasks with high urgency are marked with a 🏁 (flag).
-
-
-PlantUML
-- Compatible with Org-mode
-- Generates images from text data and displays the images, making it suitable for git management
-
 # MindMap
 1. Manage goals in the form of a MindMap
 2. Managing the MindMap in git
@@ -49,10 +34,9 @@ MindMap % git push
 ```
 
 ## PlantUML Viewer
-- Chrome の拡張機能
-- PlantUML で作成したものを GitHub の Raw ボタンから画像で表示してくれる
-
-※ Chrome 拡張機能を入れていないと見られない
+Chrome Extensions  
+It will display your PlantUML creations as raw GitHub data in images.  
+※ You need to have the chrome feature installed to see it.
 
 ## Org-mode
 ※ Unverified
