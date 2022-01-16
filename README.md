@@ -17,20 +17,19 @@ https://plantuml.com/ja/mindmap-diagram
 
 ## Initial settings
 ```sh
-Workspace % git clone git@github.com:Ishizuka427/MindMap.git
-Workspace % cd MindMap
-MindMap % brew install plantuml
-MindMap % plantuml test.puml
+git clone git@github.com:Ishizuka427/MindMap.git
+cd MindMap
+brew install plantuml
+plantuml test.puml
 ```
 
 ## How to update
 ```sh
-MindMap % git pull
-MindMap % plantuml test.puml
-MindMap % git status
-MindMap % git add test.png test.puml
-MindMap % git commit -m 'update test.png'
-MindMap % git push
+plantuml test.puml
+git status
+git add test.png test.puml
+git commit -m 'update test.png'
+git push
 ```
 
 ## PlantUML Viewer
